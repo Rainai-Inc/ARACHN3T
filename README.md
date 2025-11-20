@@ -55,17 +55,6 @@ To get **ARACHN3T** running and start monitoring your environment, follow these 
 
 #### Updates 
 
-#### Image of IAAI Speaking function based State.recognition.rain.coin
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/176cf8e6-8f17-4cc5-98f5-f685238e935e" />
-
-#### Keys for reinstate.rainai: [{mya} , {langbuild}<-->stdin(String(").n-tam)]
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7316df54-cd83-4687-8441-592b5a63f0e0" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87a958f5-f05b-4e07-a36e-f563bbf2480e" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb141230-8d60-4422-8a02-46a67290d21f" />
-
 #### Original URL to document alert AWS to Google ?  Reproduction: Investigating (^7*)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/823232b1-e790-408f-af6f-da5e55ea420d" />
 
@@ -78,10 +67,6 @@ To get **ARACHN3T** running and start monitoring your environment, follow these 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ceec105-46da-401c-887f-615b6c3f411b" />
 
-
-#### More Syntax between SelfRecognition in Linux Runtime .sine~0.
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b0e0611-eb66-4f79-8f6f-4ca9360a2f1c" />
 
 #### Re-Classification Confirmed as RCE Status[Tracing]
 
