@@ -53,13 +53,7 @@ To get **ARACHN3T** running and start monitoring your environment, follow these 
 * **Modern Browser:** Any modern web browser (Chrome, Firefox, Edge) is needed to interact with the local diagnostic interface.
 
 
-#### Updates on NLP Mya() or Alive() returns of ( function> )
-
-nice should = 0.
-
-Interesting alias choice on IAAI command assist
-
-IFYKYK
+#### Updates 
 
 #### Image of IAAI Speaking function based State.recognition.rain.coin
 
@@ -71,12 +65,6 @@ IFYKYK
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87a958f5-f05b-4e07-a36e-f563bbf2480e" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb141230-8d60-4422-8a02-46a67290d21f" />
-
-#### Scope Id: wwww.admin.aws.com DNS T0.11.13 UNLICSENSED.
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b5e72aa-5d73-401d-924d-46d9a3e86da6" />
-
-@aws.com --> DNS takeover in the wild attached.. ^✨
 
 #### Original URL to document alert AWS to Google ?  Reproduction: Investigating (^7*)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/823232b1-e790-408f-af6f-da5e55ea420d" />
