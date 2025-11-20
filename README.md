@@ -77,5 +77,8 @@ IFYKYK
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b5e72aa-5d73-401d-924d-46d9a3e86da6" />
 
+@aws.com --> DNS takeover in the wild attached.. ^✨
+
+
 
 
