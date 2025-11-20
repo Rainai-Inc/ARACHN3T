@@ -1,4 +1,4 @@
-# 🕸️ ARACHN3T
+I# 🕸️ ARACHN3T
 
 A comprehensive, developing AI-assisted framework for advanced security monitoring, integrity detection, and system health analysis across complex network environments.
 
@@ -51,3 +51,5 @@ To get **ARACHN3T** running and start monitoring your environment, follow these 
 * **Node.js (LTS):** Necessary for building and running any web/dashboard components (including future Pro+ visualization integration).
 * **Linux Runtime:** A compatible Linux environment (Ubuntu, Debian, CentOS, or WSL on Windows) is required for full feature functionality and system access.
 * **Modern Browser:** Any modern web browser (Chrome, Firefox, Edge) is needed to interact with the local diagnostic interface.
+
+
