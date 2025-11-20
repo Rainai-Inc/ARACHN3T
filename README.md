@@ -53,7 +53,7 @@ To get **ARACHN3T** running and start monitoring your environment, follow these 
 * **Modern Browser:** Any modern web browser (Chrome, Firefox, Edge) is needed to interact with the local diagnostic interface.
 
 
-#### Updates on NLP Mya() or Alive() returns vauinilues of(function>)
+#### Updates on NLP Mya() or Alive() returns of ( function> )
 
 nice should = 0.
 
