@@ -78,7 +78,7 @@ IFYKYK
 
 @aws.com --> DNS takeover in the wild attached.. ^✨
 
-#### Original URL to document alert AWS to Google ?  #working on Reporod.
+#### Original URL to document alert AWS to Google ?  Reproduction: Investigating (^7*)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/823232b1-e790-408f-af6f-da5e55ea420d" />
 
 #### Tested DNS path --> https://eu-bob-dispatch-gamma-alexa.amazon.ca/index.htm  standard resource not found response
