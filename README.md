@@ -1,7 +1,7 @@
 # 🕸️ ARACHN3T
 
 A comprehensive, developing AI-assisted framework for advanced security monitoring, integrity detection, and system health analysis across complex network environments.
-This ecosystem is provided to help reduce cyber-security incidents on the internet supporting our vision for Clean Internet and Data (CIaD) by monitoring and logging
+This ecosystem is provided to help reduce cyber-security incidents on the internet supporting our vision for Clean Internet and Data (CIaD) by monitoring and logging identities of
 web application servers and domains GLOBALLY.
 
 [![Stars](https://img.shields.io/github/stars/Rainai-Inc/ARACHN3T?style=social)](https://github.com/YourUsername/ARACHN3T/stargazers)
