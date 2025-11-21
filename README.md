@@ -53,7 +53,7 @@ To get **ARACHN3T** running and start monitoring your environment, follow these 
 * **Modern Browser:** Any modern web browser (Chrome, Firefox, Edge) is needed to interact with the local diagnostic interface.
 
 
-#### Updates 
+## Updates 
 
 #### Original URL to document alert AWS to Google ?  Reproduction: Investigating (^7*)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/823232b1-e790-408f-af6f-da5e55ea420d" />
