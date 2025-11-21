@@ -60,6 +60,20 @@ To get **ARACHN3T** running and start monitoring your environment, follow these 
 * **Linux Runtime:** A compatible Linux environment (Ubuntu, Debian, CentOS, or WSL on Windows) is required for full feature functionality and system access.
 * **Modern Browser:** Any modern web browser (Chrome, Firefox, Edge) is needed to interact with the local diagnostic interface.
 
+## Mya Chat
+You can communicate directly from the application as long as you are connected to the internet.
+
+
+## Database
+Click the Hub in center to Cycle through domains across the web monitored by ARACHN3T!
+We do not own these domains and understand the critical job we have of disclosing anything we find regarding them.
+350K+ Domains in this release alone.
+
+## Vector Scan
+**WARNING** 
+HIT OR MISS OPERATION given security of submitted entity. 
+It is a 0N3 SH0T scan that succeeds or fails and then pivots to **MYA** Where you can submit a Work Request directly. 
+
 
 ## Updates 
 
