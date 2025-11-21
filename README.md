@@ -28,7 +28,8 @@ If a vulnerability is discovered in ethicality for Bug Bounty --> YOU ARE WELCOM
 ---
 
 ### This is a user-friendly environment for those wanting to start applying Real-World Cyber Security Practices in the wild. 
-### THIS OSS is UNLICENSED and Is aimed to be assistive in your Security Research/Studies and Practices.
+### This OSS is UNLICENSED and aims to be assistive in your Security Research/Studies and Practices. 
+### If you are looking to just find bugs and make money, send a request via MYA for potential services.
 ### GRANTED, ANY DUPLICATION AND ATTEMPT TO SALE THIS CODE IN THIS REPOSITORY ANY FORM OR FASHION IS NOT PERMITTED.
 
 ---
@@ -81,7 +82,8 @@ It is a 0N3 SH0T scan that succeeds or fails and then pivots to **MYA** Where yo
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/716acb47-7f3c-439f-a063-d58d95b25f53" />
 
 
-## Updates 
+## Updates:
+## 1).
 
 #### Original URL to document alert AWS to Google ?  Reproduction: Investigating (^7*)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/823232b1-e790-408f-af6f-da5e55ea420d" />
