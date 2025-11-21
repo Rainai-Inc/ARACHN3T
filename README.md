@@ -23,10 +23,11 @@ This project is specifically focused on defensive cybersecurity, operational int
 
 Based on your country, ARACHN3T increases your odds of a successful bounty submission by 75%.
 If a vulnerability is discovered in ethicality for Bug Bounty --> YOU ARE WELCOME.
+---
 
-### This is a user-friendly environment for those wanting to start applying Real-World Cyber Security Practices in the Wild. 
+### This is a user-friendly environment for those wanting to start applying Real-World Cyber Security Practices in the wild. 
 ### THIS OSS is UNLICENSED and Is aimed to be assistive in your Security Research/Studies and Practices.
-### GRANTED, ANY DUPLICATION AND ATTEMPT TO SALE CODE IN THIS REPOSITORY ANY FORM OR FASHION IS NOT PERMITTED.
+### GRANTED, ANY DUPLICATION AND ATTEMPT TO SALE THIS CODE IN THIS REPOSITORY ANY FORM OR FASHION IS NOT PERMITTED.
 
 ---
 
