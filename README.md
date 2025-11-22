@@ -48,7 +48,7 @@ If a vulnerability is discovered in ethicality for Bug Bounty --> YOU ARE WELCOM
 
 ---
 
-## Mya Chat
+## Mya Chat (User-Based Version In Dev)
 You can communicate directly from the application as long as you are connected to the internet.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b3607f0-d70e-4c7e-aedd-1c31392b230e" />
 
