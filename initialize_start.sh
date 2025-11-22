@@ -24,10 +24,11 @@ npm -v
 echo "Installing Express..."
 npm install express
 
+echo "Transparency of Actions Notice:\nSudo permission needed to run servers! "
 echo "Starting Node apps with nohup..."
 # Run each app in background with nohup, redirecting output to log files
-nohup node app.js > app.log 2>&1 &
-nohup node api.js > api.log 2>&1 &
-nohup node mya.js > mya.log 2>&1 &
+sudo nohup node app.js > app.log 2>&1 &
+sudo nohup node api.js > api.log 2>&1 &
+sudo nohup node mya.js > mya.log 2>&1 &
 
 echo "All installations complete and apps are running in background!"
