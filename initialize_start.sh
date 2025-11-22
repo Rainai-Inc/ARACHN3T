@@ -21,13 +21,6 @@ pip3 --version
 node -v
 npm -v
 
-echo "Creating project directory..."
-mkdir -p ~/myapp
-cd ~/myapp
-
-echo "Initializing npm project..."
-npm init -y
-
 echo "Installing Express..."
 npm install express
 
