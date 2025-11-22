@@ -83,7 +83,7 @@ To get **ARACHN3T** running and start monitoring your environment, follow these 
 2. node app.js api.js mya.js or ./initialize_start.sh
 3. Visit http://localhost:80 in browser of choice.
 
-## 🚩 Windows Users
+## 🚩 WSL Users
 1. Git Clone [https://github.com/Rainai-Inc/ARACHN3T.ntam00](https://github.com/Rainai-Inc/ARACHN3T.n-tam00)
 2.  ./ARACHN3T_WinExtension.exe
 3. PLEASE RESTART SYSTEM ON YOUR OWN!
@@ -92,6 +92,10 @@ To get **ARACHN3T** running and start monitoring your environment, follow these 
 6. chmod +x initialize_start.sh & ./initialize_start.sh
 7. Visit http://localhost:80 in browser of choice.
 ### (Database Latency is a given based on the communication between the Hyper-V and native OS. (Will work on that!) )
+
+## 🚩 Pure Windows Users
+### Installation extension in dev...
+
 #### Prerequisites
 
 * **Python 3.x:** Required for the Core CLI and primary data processing modules.
