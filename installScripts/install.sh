@@ -4,7 +4,7 @@
 # Copyrights: Rainai Inc. @2025
 #
 
-git clone https://github.com/Rainai-Inc/Autopilot
+git clone https://github.com/Rainai-Inc/Autolink
 apt install golang subfinder
 GO111MODULE=on go install github.com/sw33tLie/bbscope@latest
 mv $HOME/go/bin/bbscope /usr/bin
