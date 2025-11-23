@@ -96,6 +96,11 @@ To get **ARACHN3T** running and start monitoring your environment, follow these 
 
 ## 🚩 Pure Windows Users
 ### Installation extension in dev...
+1. Git clone [https://github.com/Rainai-Inc/ARACHN3T.n-tam01](https://github.com/Rainai-Inc/ARACHN3T.n-tam01)
+2. Run PowerShell as admin and execute --> ./ARACHN3T_PureWin.exe
+3. Python3 install via WinStore is Recommended.
+4. Cd ARACHN3T directory and node app.js / api.js / mya.js
+5. Visit http://localhost:80 in browser of choice.
 
 #### Prerequisites
 
