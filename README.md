@@ -45,6 +45,8 @@ If a vulnerability is discovered in ethicality for Bug Bounty --> YOU ARE WELCOM
 | 🧠 | **Assisted Awareness & Data Batching** | Utilizes IAAI to efficiently process and gain intelligence from massive datasets, preparing data for analysis and high-performance ingestion. | `Developing` |
 | 📊 | **Core Security Monitoring** | Functions as a reliable, centralized hub for continuous security oversight and reporting. | `Stable` |
 | ⚙️ | **Runtime Optimization** | Logic for continuous runtime performance optimization, especially beneficial in large-scale network environments. | `Developing` |
+| 🧩 | **Extended URI Analysis** | It captures the idea of connections, references, and structured identifiers that URIs represent. | `Developing` |
+| 🌍 | **Geo-Specific Segmentation** | Location‑based insights of live internet entities by country. | `Developing` |
 
 ---
 
